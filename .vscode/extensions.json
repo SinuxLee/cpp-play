@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "tboox.xmake-vscode",
+        "vadimcn.vscode-lldb",
+        "xaver.clang-format",
+        "llvm-vs-code-extensions.vscode-clangd"
+    ]
+}
