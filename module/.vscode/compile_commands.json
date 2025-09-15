@@ -1,0 +1,126 @@
+[
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-DNDEBUG", "-x", "c++-module", "-fmodule-output=build/.gens/work4_2/linux/x86_64/release/rules/bmi/cache/modules/88ebe96d/std.pcm", "-Wno-include-angled-in-module-purview", "-Wno-reserved-module-identifier", "-o", "build/.objs/work4_2/linux/x86_64/release/others/stdmodule/std.mock.cppm.o", "others/stdmodule/std.mock.cppm"],
+  "file": "others/stdmodule/std.mock.cppm"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-DNDEBUG", "-fmodule-file=std=build/.gens/std/linux/x86_64/release/rules/bmi/cache/modules/7953f78c/std.pcm", "-x", "c++-module", "-fmodule-output=build/.gens/work4_2/linux/x86_64/release/rules/bmi/cache/modules/f27a3ab4/my_lib.foo.gcm", "-o", "build/.objs/work4_2/linux/x86_64/release/work4/interface_unit/my_lib/impl/foo.cppm.o", "work4/interface_unit/my_lib/impl/foo.cppm"],
+  "file": "work4/interface_unit/my_lib/impl/foo.cppm"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-DNDEBUG", "-fmodule-file=std=build/.gens/std/linux/x86_64/release/rules/bmi/cache/modules/7953f78c/std.pcm", "-x", "c++-module", "-fmodule-output=build/.gens/work4_2/linux/x86_64/release/rules/bmi/cache/modules/f27a3ab4/my_lib.bar.gcm", "-o", "build/.objs/work4_2/linux/x86_64/release/work4/interface_unit/my_lib/impl/bar.cppm.o", "work4/interface_unit/my_lib/impl/bar.cppm"],
+  "file": "work4/interface_unit/my_lib/impl/bar.cppm"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-DNDEBUG", "-fmodule-file=std=build/.gens/std/linux/x86_64/release/rules/bmi/cache/modules/7953f78c/std.pcm", "-x", "c++-module", "-fmodule-output=build/.gens/work4_2/linux/x86_64/release/rules/bmi/cache/modules/efe800b3/my_lib.gcm", "-o", "build/.objs/work4_2/linux/x86_64/release/work4/interface_unit/my_lib/my_lib.cppm.o", "work4/interface_unit/my_lib/my_lib.cppm"],
+  "file": "work4/interface_unit/my_lib/my_lib.cppm"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-DNDEBUG", "-fmodule-file=my_lib=build/.gens/work4_2/linux/x86_64/release/rules/bmi/cache/modules/efe800b3/my_lib.gcm", "-fmodule-file=std=build/.gens/std/linux/x86_64/release/rules/bmi/cache/modules/7953f78c/std.pcm", "-o", "build/.objs/work4_2/linux/x86_64/release/work4/interface_unit/main.cpp.o", "work4/interface_unit/main.cpp"],
+  "file": "work4/interface_unit/main.cpp"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-ftime-trace", "-DNDEBUG", "-x", "c++-module", "-fmodule-output=build/.gens/work2/linux/x86_64/release/rules/bmi/cache/modules/2e2d23e8/std.pcm", "-Wno-include-angled-in-module-purview", "-Wno-reserved-module-identifier", "-o", "build/.objs/work2/linux/x86_64/release/others/stdmodule/std.mock.cppm.o", "others/stdmodule/std.mock.cppm"],
+  "file": "others/stdmodule/std.mock.cppm"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-ftime-trace", "-DNDEBUG", "-fmodule-file=std=build/.gens/work2/linux/x86_64/release/rules/bmi/cache/modules/2e2d23e8/std.pcm", "-o", "build/.objs/work2/linux/x86_64/release/work2/2.cpp.o", "work2/2.cpp"],
+  "file": "work2/2.cpp"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-DNDEBUG", "-x", "c++-module", "--precompile", "-Wno-include-angled-in-module-purview", "-Wno-reserved-module-identifier", "-o", "build/.gens/std/linux/x86_64/release/rules/bmi/cache/modules/7953f78c/std.pcm", "others/stdmodule/std.mock.cppm"],
+  "file": "others/stdmodule/std.mock.cppm"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-DNDEBUG", "-fmodule-file=std=build/.gens/std/linux/x86_64/release/rules/bmi/cache/modules/7953f78c/std.pcm", "-x", "c++-module", "-fmodule-output=build/.gens/work3_1/linux/x86_64/release/rules/bmi/cache/modules/f3e6c382/animal.pcm", "-o", "build/.objs/work3_1/linux/x86_64/release/work3/animal.cppm.o", "work3/animal.cppm"],
+  "file": "work3/animal.cppm"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-DNDEBUG", "-fmodule-file=animal=build/.gens/work3_1/linux/x86_64/release/rules/bmi/cache/modules/f3e6c382/animal.pcm", "-fmodule-file=std=build/.gens/std/linux/x86_64/release/rules/bmi/cache/modules/7953f78c/std.pcm", "-o", "build/.objs/work3_1/linux/x86_64/release/work3/main2.cpp.o", "work3/main2.cpp"],
+  "file": "work3/main2.cpp"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-DNDEBUG", "-fmodule-file=std=build/.gens/std/linux/x86_64/release/rules/bmi/cache/modules/7953f78c/std.pcm", "-x", "c++-module", "-fmodule-output=build/.gens/work4_1/linux/x86_64/release/rules/bmi/cache/modules/46bd433a/my_lib.gcm", "-o", "build/.objs/work4_1/linux/x86_64/release/work4/implementation_unit/my_lib/my_lib.cppm.o", "work4/implementation_unit/my_lib/my_lib.cppm"],
+  "file": "work4/implementation_unit/my_lib/my_lib.cppm"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-DNDEBUG", "-fmodule-file=my_lib=build/.gens/work4_1/linux/x86_64/release/rules/bmi/cache/modules/46bd433a/my_lib.gcm", "-fmodule-file=std=build/.gens/std/linux/x86_64/release/rules/bmi/cache/modules/7953f78c/std.pcm", "-o", "build/.objs/work4_1/linux/x86_64/release/work4/implementation_unit/main.cpp.o", "work4/implementation_unit/main.cpp"],
+  "file": "work4/implementation_unit/main.cpp"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-DNDEBUG", "-o", "build/.objs/work4_1/linux/x86_64/release/work4/implementation_unit/my_lib/bar.cpp.o", "work4/implementation_unit/my_lib/bar.cpp"],
+  "file": "work4/implementation_unit/my_lib/bar.cpp"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-DNDEBUG", "-fmodule-file=my_lib=build/.gens/work4_1/linux/x86_64/release/rules/bmi/cache/modules/46bd433a/my_lib.gcm", "-fmodule-file=std=build/.gens/std/linux/x86_64/release/rules/bmi/cache/modules/7953f78c/std.pcm", "-o", "build/.objs/work4_1/linux/x86_64/release/work4/implementation_unit/my_lib/foo.cpp.o", "work4/implementation_unit/my_lib/foo.cpp"],
+  "file": "work4/implementation_unit/my_lib/foo.cpp"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-ftime-trace", "-DNDEBUG", "-o", "build/.objs/work1/linux/x86_64/release/work1/1.cpp.o", "work1/1.cpp"],
+  "file": "work1/1.cpp"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-DNDEBUG", "-fmodule-file=std=build/.gens/std/linux/x86_64/release/rules/bmi/cache/modules/7953f78c/std.pcm", "-x", "c++-module", "-fmodule-output=build/.gens/work3/linux/x86_64/release/rules/bmi/cache/modules/df367074/animal.pcm", "-o", "build/.objs/work3/linux/x86_64/release/work3/animal.cppm.o", "work3/animal.cppm"],
+  "file": "work3/animal.cppm"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-DNDEBUG", "-fmodule-file=animal=build/.gens/work3/linux/x86_64/release/rules/bmi/cache/modules/df367074/animal.pcm", "-fmodule-file=std=build/.gens/std/linux/x86_64/release/rules/bmi/cache/modules/7953f78c/std.pcm", "-o", "build/.objs/work3/linux/x86_64/release/work3/main.cpp.o", "work3/main.cpp"],
+  "file": "work3/main.cpp"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-DNDEBUG", "-fmodule-file=std=build/.gens/std/linux/x86_64/release/rules/bmi/cache/modules/7953f78c/std.pcm", "-x", "c++-module", "-fmodule-output=build/.gens/work4_3/linux/x86_64/release/rules/bmi/cache/modules/9099509e/my_lib.gcm", "-o", "build/.objs/work4_3/linux/x86_64/release/work4/interface_unit/my_lib/my_lib.cppm.o", "work4/interface_unit/my_lib/my_lib.cppm"],
+  "file": "work4/interface_unit/my_lib/my_lib.cppm"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-DNDEBUG", "-fmodule-file=std=build/.gens/std/linux/x86_64/release/rules/bmi/cache/modules/7953f78c/std.pcm", "-x", "c++-module", "-fmodule-output=build/.gens/work4_3/linux/x86_64/release/rules/bmi/cache/modules/0c9203ec/my_lib.foo.gcm", "-o", "build/.objs/work4_3/linux/x86_64/release/work4/interface_unit/my_lib/impl/foo.cppm.o", "work4/interface_unit/my_lib/impl/foo.cppm"],
+  "file": "work4/interface_unit/my_lib/impl/foo.cppm"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-DNDEBUG", "-fmodule-file=std=build/.gens/std/linux/x86_64/release/rules/bmi/cache/modules/7953f78c/std.pcm", "-x", "c++-module", "-fmodule-output=build/.gens/work4_3/linux/x86_64/release/rules/bmi/cache/modules/0c9203ec/my_lib.bar.gcm", "-o", "build/.objs/work4_3/linux/x86_64/release/work4/interface_unit/my_lib/impl/bar.cppm.o", "work4/interface_unit/my_lib/impl/bar.cppm"],
+  "file": "work4/interface_unit/my_lib/impl/bar.cppm"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-DNDEBUG", "-o", "build/.objs/work4_3/linux/x86_64/release/work4/interface_unit/main2.cpp.o", "work4/interface_unit/main2.cpp"],
+  "file": "work4/interface_unit/main2.cpp"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-Iinclude", "-DFMT_HEADER_ONLY", "-DNDEBUG", "-fmodule-file=std=build/.gens/std/linux/x86_64/release/rules/bmi/cache/modules/7953f78c/std.pcm", "-x", "c++-module", "-fmodule-output=build/.gens/work5_2/linux/x86_64/release/rules/bmi/cache/modules/da920244/fmt.gcm", "-o", "build/.objs/work5_2/linux/x86_64/release/work5/export_extern_cpp/fmt.cppm.o", "work5/export_extern_cpp/fmt.cppm"],
+  "file": "work5/export_extern_cpp/fmt.cppm"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-Iinclude", "-DFMT_HEADER_ONLY", "-DNDEBUG", "-fmodule-file=fmt=build/.gens/work5_2/linux/x86_64/release/rules/bmi/cache/modules/da920244/fmt.gcm", "-fmodule-file=std=build/.gens/std/linux/x86_64/release/rules/bmi/cache/modules/7953f78c/std.pcm", "-o", "build/.objs/work5_2/linux/x86_64/release/work5/main.cpp.o", "work5/main.cpp"],
+  "file": "work5/main.cpp"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-Iinclude", "-DFMT_HEADER_ONLY", "-DNDEBUG", "-x", "c++-module", "-fmodule-output=build/.gens/work5_1/linux/x86_64/release/rules/bmi/cache/modules/907cce67/fmt.gcm", "-o", "build/.objs/work5_1/linux/x86_64/release/work5/export_using_declaration/fmt.cppm.o", "work5/export_using_declaration/fmt.cppm"],
+  "file": "work5/export_using_declaration/fmt.cppm"
+},
+{
+  "directory": "/root/cppmodule/workshop",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-Iinclude", "-DFMT_HEADER_ONLY", "-DNDEBUG", "-fmodule-file=fmt=build/.gens/work5_1/linux/x86_64/release/rules/bmi/cache/modules/907cce67/fmt.gcm", "-fmodule-file=std=build/.gens/std/linux/x86_64/release/rules/bmi/cache/modules/7953f78c/std.pcm", "-o", "build/.objs/work5_1/linux/x86_64/release/work5/main.cpp.o", "work5/main.cpp"],
+  "file": "work5/main.cpp"
+}]
