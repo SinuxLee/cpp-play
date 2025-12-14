@@ -17,10 +17,16 @@
 - 类的实现和.h分开，使用前置声明
 
 ```cpp
-// 头文件 UserFwd.h
-
 #include <memory>
 
 class User;                  // ① 前置声明类
 using UserPtr = std::shared_ptr<User>;  // ② 使用别名
 ```
+
+### c++ 的减法
+- 不使用自定义模板
+- 不使用命名空间
+- 尽量不用STL
+- 保持语法的简单性，比如仅仅使用 c++98 或者 c++11 的语法特性
+- 不用 dynamic_cast 这类复杂操作
+- 不用多继承
