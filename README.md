@@ -30,3 +30,19 @@ using UserPtr = std::shared_ptr<User>;  // ② 使用别名
 - 保持语法的简单性，比如仅仅使用 c++98 或者 c++11 的语法特性
 - 不用 dynamic_cast 这类复杂操作
 - 不用多继承
+
+### 一些库
+- jsoncpp
+- modern-json
+- libcurl
+- libpoco
+- openssl
+- rabbitmq
+- tinyxml
+- mysql++
+- boost
+- msgpack
+- prometheus-cpp
+- librdfafka
+- simplewebserver
+- redisclient
